@@ -3,10 +3,10 @@
 ***Using GitHub***
 
 1) Start by creating a GitHub account (https://github.com)
-  - GitHub is an open source coding system where files and code can be shared and worked on collectively with multiple people
-  - Once you sign up, create a repository (central location where files and code are managed) by clicking the "+" sign in the upper right corner. Choose “Create New repository” and name it whatever you like 
+  - **GitHub** is an open source coding system where files and code can be shared and worked on collectively with multiple people
+  - Once you sign up, create a **repository** (central location where files and code are managed) by clicking the "+" sign in the upper right corner. Choose “Create New repository” and name it whatever you like 
   - Make the repository **public** and add the README file. Click **Create**.
-2) Install Webstorm (an IDE used to edit and develop HTML and other script code) using a student email if possible (email ending in .edu) and download Git ("an open source distributed version control system") according to your operating system
+2) Install **Webstorm** (an IDE used to edit and develop HTML and other script code) using a student email if possible (email ending in .edu) and download **Git** ("an open source distributed version control system") according to your operating system
   - Webstorm Download: https://www.jetbrains.com/student/
   - Git Download: https://git-scm.com/downloads
 3) Open Webstorm. In Webstorm press (Ctrl+Alt+S) for system preferences. Select Version control Git. Enter the path to the git.exe (such as C:\Programs\git.exe)
