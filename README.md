@@ -38,3 +38,8 @@ Other Definitions:
 
 
 Source: (https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c)
+References:
+1) Beer, B. (2018). Introducing GitHub. 2ed. O’Reilly Press. 
+2) Jetbrains. (2019). Git. Retrieved March 21, 2019, from https://www.jetbrains.com/help/webstorm/using-git-integration.html3.GitHub (2019)
+3) GitHub Guides Tutorial. Retrieved  March 19, 2019, from https://guides.github.com/activities/hello-world/21
+
