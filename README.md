@@ -21,19 +21,20 @@
 8) **Push** Change to Remote Repository (uploads local repository data to a remote repository)
   - Remote meaning a shared repository that is used by multiple people, and not personal like your "local" repository
   - The push should now have the files on GitHub (remote repository)
-9) 
+9) Set up Github Pages
+  - Click Settings
+  - Check the repository name
+10) Choose GitHub Page Location
+  - Select “Master branch”
+  - Note the published URL
+11) Check your GitHub Pages by copying the Github.io URL into a browser
+
+Other Definitions:
+  - Branch: Path that holds certain data
+  - Pull: Opposite of push, used to receive content from a remote repository and update it to the local repository
+  - Fetch: Part of pulling data, system goes to "fetch" data from one location and bring it back to the caller
+  - Merge: Other part of pulling data, fetched data is now incorporated into the local repository
+  - Merge Conflict: Branches that have competing commits, and need to be fixed manually to decide what data gets to stay
 
 
-
-GIT /
-GITHUB /
-Repository /
-Clone
-Commit /
-Push /
-Pull
-Branch
-Merge
-Merge Conflict
-Fetch
-Remote /
+Source: (https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c)
